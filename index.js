@@ -1,0 +1,1 @@
+console.log('hi welcome to cicd pipeline using github actions');
